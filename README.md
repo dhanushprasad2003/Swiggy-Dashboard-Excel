@@ -62,6 +62,9 @@ The goal of this dashboard is to analyze Swiggy sales data and answer key busine
 
 ## 👤 Author
 
+**Dhanush Prasad**  
+[GitHub](https://github.com/dhanushprasad2003)
+
 Created as a Data Analytics / Excel Dashboard portfolio project.
 
 ## ⭐ If you like this project
